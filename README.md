@@ -6,7 +6,7 @@ Assume that there are various bike stations placed at various places in VIT camp
 
 The data includes: Start Time, End Time, Trip Duration, Start Station, End Station, Gender and Year of Study
 
-Bike Rider helps analysing this data by drawing graphs and showing trends based on each of these parameters. Various filters can be applied on the data based on month, day etc. 
+Bike Rider helps analysing this data by drawing graphs and showing trends based on each of these parameters. Various filters can be applied on the data based on month, day, campus(vellore, bhopal, chennai) etc. 
 
 # Support Me
   If you like this, leave a star
